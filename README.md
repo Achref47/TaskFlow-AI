@@ -110,9 +110,7 @@ npm or yarn package manager
 
 Follow these steps to set up and run the project locally.
 
-##  2.  Backend Setup
-cd Backend
-npm install
+
 ### 1. Clone the Repository
 git clone https://github.com/Achref47/TaskFlow-AI.git
 cd TaskFlow-AI
